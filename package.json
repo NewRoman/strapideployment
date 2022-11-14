@@ -6,6 +6,7 @@
     "@strapi/strapi": "4.4.7",
     "better-sqlite3": "7.4.6",
     "lodash.set": "^4.3.2",
+    "pg": "^8.8.0",
     "pg-connection-string": "^2.5.0"
   },
   "name": "backend",
@@ -31,7 +32,5 @@
     "npm": ">=6.0.0"
   },
   "license": "MIT",
-  "devDependencies": {
-    "pg": "^8.8.0"
-  }
+  "devDependencies": {}
 }
